@@ -1,4 +1,3 @@
-
 Gidy Profile Project
 
 ## Tech Stack
