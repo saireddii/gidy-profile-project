@@ -1,18 +1,32 @@
 
 Gidy Profile Project
 
-Backend:
-cd backend
-npm install
-node server.js
+## Tech Stack
+Frontend: React (Vite)  
+Backend: Node.js + Express  
+Database: MongoDB  
 
-Frontend:
-cd frontend
-npm install
-npm run dev
+## Features
+- Profile page UI
+- Fetch profile data from backend API
+- Edit profile functionality
+- Data stored in MongoDB
 
-MongoDB:
-Create database 'gidy' and insert profile document.
+## Innovation Feature
+A Dark Mode toggle is implemented to improve user experience.
+Users can switch between light and dark themes.
 
-Innovation:
-Dark mode toggle and editable profile.
+## How to Run Locally
+
+### Backend
+cd backend  
+npm install  
+node server.js  
+
+### Frontend
+cd frontend  
+npm install  
+npm run dev  
+
+Open browser:
+http://localhost:5173
